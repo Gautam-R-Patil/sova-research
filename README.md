@@ -1,13 +1,27 @@
+<div align="center">
+
 # SOVA Research
 
-Research on **portable, verifiable evidence for AI-agent security findings** —
-how a security finding about an AI agent can be packaged so that someone else can
-check it, reproduce it, and see exactly where the evidence stops.
+**Portable, verifiable evidence for AI-agent security findings.**
+
+How a security finding about an AI agent can be packaged so that someone else<br/>
+can check it, reproduce it, and see exactly where the evidence stops.
+
+<p>
+  <img src="https://img.shields.io/badge/PREPRINT-v1.0-FFB000?style=for-the-badge" alt="Preprint v1.0" />
+  <img src="https://img.shields.io/badge/PEER%20REVIEW-NOT%20YET-D22128?style=for-the-badge" alt="Not peer reviewed" />
+  <img src="https://img.shields.io/badge/PAPERS-CC%20BY%204.0-00B8D9?style=for-the-badge" alt="CC BY 4.0" />
+  <a href="https://github.com/TRUSCOR/SOVA-OSS"><img src="https://img.shields.io/badge/CODE-TRUSCOR%2FSOVA--OSS-0B8793?style=for-the-badge" alt="Implementation" /></a>
+</p>
+
+Gautam R. Patil · [TRUSCOR Private Limited](https://truscor.org) · gautam@truscor.org
+
+</div>
+
+---
 
 This repository holds the papers. The implementation lives in
-**[SOVA OSS](https://github.com/Gautam-R-Patil/S.O.V.A---OSS---TRUSCOR)**.
-
-Gautam R. Patil · TRUSCOR Private Limited · gautam@truscor.org
+**[SOVA OSS](https://github.com/TRUSCOR/SOVA-OSS)**.
 
 ---
 
@@ -95,7 +109,7 @@ security labels across three axes — are at the question stage with no draft ye
 
 ## How this relates to SOVA OSS
 
-[SOVA OSS](https://github.com/Gautam-R-Patil/S.O.V.A---OSS---TRUSCOR) is the
+[SOVA OSS](https://github.com/TRUSCOR/SOVA-OSS) is the
 open-source implementation: the `.sova` and `.sova-trace` formats, schemas, the
 reference verifier, examples, and tests. It is pre-alpha and under active development.
 
